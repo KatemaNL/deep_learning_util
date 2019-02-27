@@ -8,14 +8,11 @@ with my newly purchased Nvidia Gefore RTX 2070. I switched between software vers
 I used the commands in this script to check which software versions are actually installed and to find any discrepancies between them.
 
 # Tensorflow 1.12 build
-In the end I succeeded in a successful build of Tensorflow 1.12 from source using the following:
+In the end I succeeded in a build of Tensorflow 1.12 from source using the following:
 - OS: Ubuntu 18.04
 - linux kernel: 4.15.0-45-generic
 - architecture: amd64 (so 64-bit)
 - python: 3.6.2
-- keras: 2.2.4
-- keras-applications: 1.0.6
-- keras-preprocessing: 1.0.5
 - tensorflow: 1.12.0
 - cudnn: 7.5
 - nvcc: 10.0
@@ -23,6 +20,11 @@ In the end I succeeded in a successful build of Tensorflow 1.12 from source usin
 - gcc: 4.8.5
 - g++: 4.8.5
 - bazel: 0.15.0
+
+Is used this build to work with:
+- keras: 2.2.4
+- keras-applications: 1.0.6
+- keras-preprocessing: 1.0.5
 
 A download link for the resulting wheel will follow here shortly.
 
