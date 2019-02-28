@@ -49,3 +49,9 @@ The following image helped me getting a better intuition of the flow of software
 
 ![alt text](img/software_instruction_flow.png "Software Instruction Flow")
 
+Links:
+- https://www.tensorflow.org/guide/extend/architecture
+- https://docs.nvidia.com/deeplearning/sdk/
+- https://docs.nvidia.com/cuda/cuda-c-programming-guide/
+- https://docs.nvidia.com/cuda/parallel-thread-execution/
+
