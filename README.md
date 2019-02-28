@@ -1,10 +1,10 @@
 # Description
-Script for printing system hard- and software-information used in deep learning.
+Script for printing system- and version information about installed hardware and software used in deep learning.
 Aimed at Keras with Tensorflow on Linux with NVIDIA hardware.
 
 # Background 
 I have come about the set of commands in this script when trying to compile Tensorflow from source to work 
-with my newly purchased Nvidia Gefore RTX 2070. I switched between software versions multiple times to get it to work.
+with my newly purchased Nvidia Geforce RTX 2070. I switched between software versions multiple times to get it to work.
 I used the commands in this script to check which software versions are actually installed and to find any discrepancies between them.
 
 # Tensorflow 1.12 build
@@ -41,4 +41,5 @@ Software: Keras with Tensorflow (Theano, Pytorch, Caffe, and others are not supp
 # Disclaimer
 These scripts are highly experimental and they come without warranty of any kind.
 I take no liability for the accuracy, correctness, completeness, or usefulness of these scripts nor for any sort of damages using these scripts may cause.
-Use these script at your own risk only!
+
+<span style="color:red">**Use these script at your own risk only!**</span>
