@@ -43,3 +43,9 @@ These scripts are highly experimental and they come without warranty of any kind
 I take no liability for the accuracy, correctness, completeness, or usefulness of these scripts nor for any sort of damages using these scripts may cause.
 
 <span style="color:red">**Use these script at your own risk only!**</span>
+
+# Software Instruction Flow
+The following image helped me getting a better intuition of the flow of software instructions:
+
+![alt text](img/software_instruction_flow.png "Software Instruction Flow")
+
