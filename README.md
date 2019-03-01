@@ -26,7 +26,7 @@ Is used this build to work with:
 - keras-applications: 1.0.6
 - keras-preprocessing: 1.0.5
 
-A download link for the resulting wheel will follow here shortly.
+The build is available for download [here](http://download.katema.nl/python_packages/tensorflow-1.12.0-cp36-cp36m-linux_x86_64.whl).
 
 # Tensorflow 1.13 build
 I am currently working on this
