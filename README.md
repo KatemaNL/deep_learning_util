@@ -29,7 +29,19 @@ Is used this build to work with:
 The build is available for download [here](http://download.katema.nl/python_packages/tensorflow-1.12.0-cp36-cp36m-linux_x86_64.whl).
 
 # Tensorflow 1.13 build
-I am currently working on this
+- OS: Ubuntu 18.04
+- linux kernel: 4.15.0-45-generic
+- architecture: amd64 (so 64-bit)
+- python: 3.6.2
+- tensorflow: 1.13.1
+- cudnn: 7.4
+- nvcc: 10.0
+- CUDA: 10.0.130
+- gcc: 4.8.5
+- g++: 4.8.5
+- bazel: 0.19.2
+
+The build is available for download [here](http://download.katema.nl/python_packages/tensorflow-1.13.1-cp36-cp36m-linux_x86_64.whl).
      
 # Requirements
 - OS: Linux
